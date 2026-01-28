@@ -98,7 +98,7 @@
         <configuration>
           <archive>
             <manifest>
-              <mainClass>com.jenkins-docker.App</mainClass>
+              <mainClass>com.jenkins_docker.App</mainClass>
             </manifest>
           </archive>
         </configuration>
